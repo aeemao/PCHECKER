@@ -1,0 +1,6 @@
+services:
+  proxy-checker:
+    build: .
+    container_name: pchecker
+    volumes:
+      - ./data:/app/data
