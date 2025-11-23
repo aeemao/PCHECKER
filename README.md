@@ -108,5 +108,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Community-driven proxy sources
 
 =======
-- Community-driven proxy sources
->>>>>>> bc7cffa (init)
