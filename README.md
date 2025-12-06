@@ -104,5 +104,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Built with `httpx` for async HTTP requests
 - Containerized with Docker for easy deployment
-<<<<<<< HEAD
 - Community-driven proxy sources
