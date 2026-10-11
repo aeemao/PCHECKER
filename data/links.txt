@@ -17,3 +17,4 @@ https://raw.githubusercontent.com/mmpx12/proxy-list/master/proxies.txt
 https://raw.githubusercontent.com/vmheaven/VMHeaven-Free-Proxy-Updated/refs/heads/main/http.txt
 https://raw.githubusercontent.com/vmheaven/VMHeaven-Free-Proxy-Updated/refs/heads/main/https.txt
 https://raw.githubusercontent.com/thenasty1337/free-proxy-list/main/data/latest/proxies.txt
+https://rcloak.com/api/proxies/raw?protocol=all
